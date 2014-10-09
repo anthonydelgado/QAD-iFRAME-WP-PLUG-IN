@@ -1,4 +1,4 @@
-QAD-iFRAME-WP-PLUG-IN
+Quick and Dirty WordPress iFRAME PLUG-IN
 =====================
 
 Quick and Dirty WordPress Plugin by Anthony Delgado: www.anthonydelgado.me
