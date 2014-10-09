@@ -25,7 +25,7 @@ function tdnyc_help_page() {
     echo '<div class="wrap">
 <div id="icon-tools" class="icon32"><br /></div><h2>Get Support</h2>
 <p>You can get 24/7 Tech Support for your website using the ticket system below:</p>
-<iframe class="wrapper" id="blockrandom" name="iframe" align="top" src="http://yahoo.com/" frameborder="0" width="850" height="700">
+<iframe class="wrapper" id="blockrandom" name="iframe" align="top" src="http://example.com/" frameborder="0" width="850" height="700">
 	This option will not work correctly. Unfortunately, your browser does not support Inline Frames</iframe>
 	</div>
 ';
