@@ -6,3 +6,5 @@ Quick and Dirty WordPress Plugin by Anthony Delgado: www.anthonydelgado.me
 A Quick and Dirty WordPress Plugin that adds an Admin Menu item containing a link to an iFrame within the wp-admin panel. 
 
 Useful for creating a contact support page into an existing customers WP based website. 
+
+Before using this Plugin you should change the name and replace example.com with your companies support page. 
